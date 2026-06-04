@@ -1,9 +1,12 @@
 ## Hi there, I'm Phu Vo 👋
 
 🎓 Backend developer in progress · Ho Chi Minh City, Vietnam  
+
 🌱 Currently learning backend development  
-💬 Ask me about my poetry
-📫 Reach me at: [github.com/PhuVo0112](https://github.com/PhuVo0112)
+
+💬 Ask me about my mindset
+
+📫 Reach me at: [PhuVo0112](https://github.com/PhuVo0112)
 
 ---
 
@@ -23,16 +26,26 @@
 
 ### 🗄️ Databases
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=flat&logo=neon&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+### 💻 IDEs & Softwares Used
+
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-181717?style=flat&logo=apache-netbeans&logoColor=FA2A55)
+![DevC++](https://img.shields.io/badge/Dev--C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?style=flat&logo=python&logoColor=white)
 
 ---
 
