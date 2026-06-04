@@ -51,15 +51,15 @@
 
 📊 GitHub Stats
 
-![Phu Vo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phuvo0112&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phuvo0112&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Phu Vo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phuvo0112&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phuvo0112&theme=rose_pine&show_icons=true&hide_border=true&layout=compact)
 
 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=phuvo0112&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=phuvo0112&theme=rose_pine&hide_border=true)
 
 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phuvo0112&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phuvo0112&theme=pink&hide_border=true&area=true)
 
-![Profile views](https://komarev.com/ghpvc/?username=phuvo0112&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=phuvo0112&color=ffb7b2&style=flat)
