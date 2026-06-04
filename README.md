@@ -1,6 +1,5 @@
 ## Hi there 👋
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhuVo0112&theme=rose_pine&hide_border=true)
-<!--
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phuvo0112&theme=monokai&show_icons=true&hide_border=true&layout=compact)](https://github.com/phuvo0112)<!--
 **PhuVo0112/PhuVo0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
