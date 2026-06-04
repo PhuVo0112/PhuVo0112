@@ -45,7 +45,7 @@
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-181717?style=flat&logo=apache-netbeans&logoColor=FA2A55)
 ![DevC++](https://img.shields.io/badge/Dev--C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?style=flat&logo=python&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?style=flat&logo=python&logoColor=black)
 
 ---
 
@@ -54,9 +54,6 @@
 ![Phu Vo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phuvo0112&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phuvo0112&theme=rose_pine&show_icons=true&hide_border=true&layout=compact)
 
-🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=phuvo0112&theme=rose_pine&hide_border=true)
 
 📈 Activity Graph
 
