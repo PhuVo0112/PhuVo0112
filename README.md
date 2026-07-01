@@ -6,8 +6,6 @@
 
 💬 Ask me about my mindset
 
-📫 Reach me at: [PhuVo0112](https://github.com/PhuVo0112)
-
 ---
 
 ### 🧑‍💻 Languages
