@@ -41,9 +41,10 @@
 ### 💻 IDEs & Softwares Used
 
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-181717?style=flat&logo=apache-netbeans&logoColor=FA2A55)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white)
 ![DevC++](https://img.shields.io/badge/Dev--C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?style=flat&logo=python&logoColor=black)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white)
 
 ---
 
