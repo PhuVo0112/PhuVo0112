@@ -6,6 +6,8 @@
 
 💬 Ask me about my mindset
 
+📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thien-phu-vo-nguyen-67635432a)
+
 ---
 
 ### 🧑‍💻 Languages
@@ -37,6 +39,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-000000?style=flat&logo=visualparadigm&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-FF8C00?style=flat&logo=diagramsdotnet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ### 💻 IDEs & Softwares Used
 
